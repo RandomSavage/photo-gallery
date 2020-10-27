@@ -1,0 +1,28 @@
+ion-content{
+  --background: none;
+  background-image: url('https://img.pngio.com/black-and-white-honeycomb-structure-free-image-black-honeycomb-png-5900_2629.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  // --ion-background-color:#111D12;
+}
+
+#image-container{
+  height: 400px;
+  width: 400px;
+  margin: 80px auto;
+  background: rgb(77,225,255);
+  background-image: url('https://img.pngio.com/black-and-white-honeycomb-structure-free-image-black-honeycomb-png-5900_2629.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  .naruto-image{
+    height: 400px;
+    width: 400px;
+    background: url('https://animatedit.files.wordpress.com/2016/03/narutoc200.gif');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
